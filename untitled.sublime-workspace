@@ -1,0 +1,237 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"vi",
+				"ng-view	AngularJS"
+			],
+			[
+				"conta",
+				"contact-63"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 27.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Function"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/greg/Digitaleo/backoffice/.git/config",
+		"/Users/greg/Digitaleo/Home/More_than_words/index.html",
+		"/Users/greg/Google Drive/Springfield/Datas/models/V2/Email-Assurances 2/structure.json",
+		"/Users/greg/Google Drive/Springfield/Datas/models/V1/Email-Vierge-1/structure.json",
+		"/Users/greg/Digitaleo/.project",
+		"/Users/greg/Downloads/crea/tmp.html",
+		"/Users/greg/Downloads/Email Repiquage OPO_sept_HTML 2/email.html",
+		"/Users/greg/Dropbox/Projects/biblio/app/styles/main.scss",
+		"/Users/greg/Dropbox/Projects/biblio/app/views/main.html",
+		"/Users/greg/Dropbox/Projects/biblio/Gruntfile.js",
+		"/Users/greg/Dropbox/Projects/reveal.js/Gruntfile.js",
+		"/Users/greg/Dropbox/Projects/reveal.js/package.json",
+		"/Users/greg/Downloads/Email Repiquage OPO_sept_HTML/email.html",
+		"/Users/greg/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/greg/Digitaleo/slbeo.marketeo.net/application/services/Api/Soap/AbstractCmpeo.php",
+		"/Users/greg/Digitaleo/slbeo.marketeo.net/tests/fixtures/manager/assertions/optout/optout1.xml"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sub",
+			"templa",
+			";",
+			"    \n",
+			"chrom",
+			"loadN",
+			"grunt-contrib-compass",
+			"`",
+			"colu",
+			"guid",
+			"con_",
+			"\n//"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			",",
+			"x",
+			"\"",
+			"",
+			"\"",
+			"ctc_"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"pop",
+				"app/views/popup.html"
+			],
+			[
+				"ima",
+				"app/scripts/services/images.js"
+			],
+			[
+				"main.j",
+				"app/scripts/controllers/main.js"
+			],
+			[
+				"main.html",
+				"app/views/main.html"
+			],
+			[
+				"saoac",
+				"slbeo.marketeo.net/application/services/Api/Soap/AbstractCmpeo.php"
+			],
+			[
+				"sao",
+				"slbeo.marketeo.net/tests/fixtures/manager/assertions/optout/optout1.xml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/greg/Dropbox/Projects/biblio/biblio.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 174.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
